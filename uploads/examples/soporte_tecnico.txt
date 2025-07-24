@@ -1,0 +1,40 @@
+GUÍA DE SOPORTE TÉCNICO
+
+PROBLEMAS COMUNES Y SOLUCIONES:
+
+1. PROBLEMAS DE ACCESO:
+   - Verificar usuario y contraseña
+   - Intentar restablecer contraseña
+   - Limpiar caché y cookies del navegador
+   - Probar en modo incógnito
+
+2. PROBLEMAS DE RENDIMIENTO:
+   - Verificar conexión a internet
+   - Cerrar otras aplicaciones
+   - Actualizar navegador web
+   - Reiniciar dispositivo
+
+3. ERRORES DE PAGO:
+   - Verificar datos de tarjeta
+   - Confirmar fondos disponibles
+   - Probar con otro método de pago
+   - Contactar al banco emisor
+
+4. PROBLEMAS DE SINCRONIZACIÓN:
+   - Verificar conexión estable
+   - Forzar sincronización manual
+   - Cerrar y reabrir aplicación
+   - Verificar espacio de almacenamiento
+
+ESCALAMIENTO DE SOPORTE:
+- Nivel 1: Chat en línea o email
+- Nivel 2: Llamada telefónica con especialista
+- Nivel 3: Sesión de soporte remoto
+- Nivel 4: Visita técnica en sitio (casos especiales)
+
+INFORMACIÓN NECESARIA PARA SOPORTE:
+- Descripción detallada del problema
+- Pasos para reproducir el error
+- Sistema operativo y versión
+- Navegador web utilizado
+- Capturas de pantalla del error

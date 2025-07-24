@@ -1,0 +1,2 @@
+# Este archivo mantiene el directorio uploads en el repositorio
+# Los archivos subidos se ignoran por .gitignore pero el directorio debe existir
